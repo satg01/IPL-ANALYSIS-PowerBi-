@@ -1,6 +1,5 @@
 # Indian premier League Data Analysis
-# Tools :  
-Power BI,Python 
+# About
  Indian Premier League(IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India(BCCI) in 2008..
 
 # Database: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
