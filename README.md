@@ -2,7 +2,10 @@
 # About
  Indian Premier League(IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India(BCCI) in 2008..
 
-# Database: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
+# Database link: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
+# Interactive  dashboard Link :
+https://www.novypro.com/project/ipl-data-analysis-3
+
 # Task
 Build Reports based on Matches , Batsman and Bowlers data Indivisually.
 Show top Batsmans and Bowlers
