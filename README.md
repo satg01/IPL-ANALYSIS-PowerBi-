@@ -4,7 +4,9 @@
 
 # Database link: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 # Interactive  dashboard Link :
-https://www.novypro.com/project/ipl-data-analysis-3
+1st : https://www.novypro.com/project/ipl-data-analysis-3
+2nd : https://www.novypro.com/project/ipl-3
+
 
 # Task
 Build Reports based on Matches , Batsman and Bowlers data Indivisually.
