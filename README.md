@@ -12,10 +12,7 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 https://drive.google.com/file/d/1c6GatioLXN9wZckCGCebrqA9FtywuTZU/view?usp=sharing
 
 # Task
-Build Reports based on Matches, Batsman and Bowlers data individually.
-Show top Batsmen and Bowlers
-display Winner, Batsman, Batsman runs, Fours and Sixes by the player?
-count of rating types based on TV Shows and Movie
+Using match data, we have generated individual reports for top batsmen and bowlers. The reports showcase the winners, top batsmen, their runs, fours, and sixes. This comprehensive analysis provides valuable insights into player performances during matches.
 
 # Insights
 
