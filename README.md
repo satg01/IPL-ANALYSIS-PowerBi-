@@ -1,6 +1,6 @@
 # Indian Premier League Data Analysis
 # About
- Indian Premier League(IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India(BCCI) in 2008..
+ The Indian Premier League (IPL) is a highly popular professional Twenty20 cricket league in India. Established by the Board of Control for Cricket in India (BCCI) in 2008, the IPL features franchise-based teams representing different cities or regions in India. It is known for attracting top international cricket talent, creating a competitive and entertaining tournament. Each team is associated with high-profile owners from various industries, adding glamour and excitement to the league. The IPL follows a format with a group stage and playoffs, where the top four teams compete for a spot in the final match. It has gained a massive fan following both within India and globally, contributing significantly to the growth of cricket as a sport.
  
 # Database link: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 # Interactive  dashboard Link :
