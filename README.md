@@ -4,7 +4,7 @@
  
 # Database link:<br>
 https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
-# Interactive  dashboard Link :<br>
+# Interactive  dashboard Link:<br>
 1st : https://www.novypro.com/project/ipl-data-analysis-3 <br>
 2nd : https://www.novypro.com/project/ipl-3
 
@@ -12,18 +12,18 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 https://drive.google.com/file/d/1c6GatioLXN9wZckCGCebrqA9FtywuTZU/view?usp=sharing
 
 # Task
-Build Reports based on Matches , Batsman and Bowlers data Indivisually.
-Show top Batsmans and Bowlers
-display Winner , Batsman , Batsman runs,Fours and Sixes by player ? .
-count of ratings type based TV Shows anf Movie
+Build Reports based on Matches, Batsman and Bowlers data individually.
+Show top Batsmen and Bowlers
+display Winner, Batsman, Batsman runs, Fours and Sixes by the player?
+count of rating types based on TV Shows and Movie
 
 # Insights
 
 Created report Batsman Analysis, Bowlers Statistics and used Filter cards to move dynamically
 insights like top 10 Batsman and Bowlers and Match played vs venues shown
-Top 10 Batsman and Bowlers showed using clustured column and chart and stacked bar chart.
-using slicer Season ,Batsman and Bowlers shown in reports .
-Winner , Batsman , Batsman runs,Fours and Sixes by players etc all are shown via cards.
+The top 10 batsmen and Bowlers showed using clustered columns and chart and stacked bar charts.
+using slicer Season, batsmen and Bowlers are shown in reports.
+Winner, Batsman, Batsman runs, Fours and Sixes by players etc all shown via cards.
 
 Player Performance Matrix: this analysis evaluates the performance of individual players using statistics such as batting average, bowling economy, strike rate, and fielding performance. It helps in player selection, contract negotiations, and team strategy.
 
