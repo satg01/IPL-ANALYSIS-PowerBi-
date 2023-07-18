@@ -8,7 +8,8 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 1st : https://www.novypro.com/project/ipl-data-analysis-3 <br>
 2nd : https://www.novypro.com/project/ipl-3
 
-#Python EDA File : https://drive.google.com/file/d/1UYGY8m2BRaTbBEzj4oOs16WDy9GL3PY3/view?usp=drive_link
+# Python EDA File :
+https://drive.google.com/file/d/1UYGY8m2BRaTbBEzj4oOs16WDy9GL3PY3/view?usp=drive_link
 
 # Task
 Build Reports based on Matches , Batsman and Bowlers data Indivisually.
